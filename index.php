@@ -1,3 +1,5 @@
 <?php
-hi hehe
-php?>
+ 
+echo "kung ginabasa mo ni palangga taka"
+
+?>
